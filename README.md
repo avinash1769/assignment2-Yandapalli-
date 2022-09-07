@@ -18,7 +18,7 @@ Directions to travel from Paris Orly airport to Louvre Museum.
 * Les Halles
 * Musee d'Orsay
 
-[About Avinash]
+[About Avinash](https://github.com/avinash1769/assignment2-Yandapalli-/blob/main/AboutMe.md)
 
 ---
 # Cities to visit

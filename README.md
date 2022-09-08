@@ -36,8 +36,8 @@ Table includes Name of the city and the important location to visit that city as
 ---
 #Pithy quotes
 
-> ***The journey of a thousand miles begins with one step.*** - *Lao Tzu*<br>
-> ***When the going gets tough, the tough get going.*** -*Joe Kennedy*
+> ***"The journey of a thousand miles begins with one step." - Lao Tzu*** <br>
+> ***"When the going gets tough, the tough get going." - Joe Kennedy***
 
 ---
 #Ipad Detection
